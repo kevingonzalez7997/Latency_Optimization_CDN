@@ -1,4 +1,4 @@
-# Latency_optimization
+# Latency_Optimization
 
 ## Current Status:
 As our collaboration with Nike continues, they recently e-mailed us regarding customer complaints. They mentioned their dissatisfaction with load times. They have requested improvements in latency.
